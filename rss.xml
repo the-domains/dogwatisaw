@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dog Wat I Saw]]></title>
         <description><![CDATA[Dog Wat I Saw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://dogwatisaw.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 22:04:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 22:13:18 GMT</lastBuildDate>
+        <atom:link href="http://dogwatisaw.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4e3dad-d22b-4906-b561-468a3e8a26f5.jpg">]]></description>
+            <link>http://dogwatisaw.com/foul-lil-monster-458pm-essex-road/index.html</link>
+            <guid isPermaLink="false">3bd44afe-422e-4b24-bc80-d72030705e6c</guid>
+            <pubDate>Tue, 31 May 2016 22:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef75c43c-4a5b-4b4d-9d9d-89d70ecfb042.jpg">]]></description>
-            <link>undefined14b67930-ef94-46d1-9097-c719b3193a15/index.html</link>
+            <link>http://dogwatisaw.com/14b67930-ef94-46d1-9097-c719b3193a15/index.html</link>
             <guid isPermaLink="false">14b67930-ef94-46d1-9097-c719b3193a15</guid>
             <pubDate>Tue, 31 May 2016 22:02:53 GMT</pubDate>
         </item>
