@@ -2,12 +2,13 @@ name: dogwatisaw
 favicon: null
 layout_spectrum: 0.2369729788042605
 typography_spectrum: 0.6107665076851845
+title: Dog Wat I Saw
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-78626502-1
   facebook: null
   twitter: null
 opengraph:
