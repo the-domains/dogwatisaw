@@ -4,8 +4,15 @@
         <description><![CDATA[Dog Wat I Saw]]></description>
         <link>http://dogwatisaw.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 22:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 22:51:32 GMT</lastBuildDate>
         <atom:link href="http://dogwatisaw.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social]]></title>
+            <description><![CDATA[<article><h1>Social</h1><p>Instagram</p></article>]]></description>
+            <link>http://dogwatisaw.com/follow/index.html</link>
+            <guid isPermaLink="false">8c466a5f-102a-4087-9815-188d408a51ab</guid>
+            <pubDate>Tue, 31 May 2016 22:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pug puppy fighting his leash - 8:06pm Barcelona
 ]]></title>
@@ -14,13 +21,6 @@
             <link>http://dogwatisaw.com/pug-puppy-fighting-his-leash-806pm-barcelona/index.html</link>
             <guid isPermaLink="false">a05924f0-b9c5-4b4a-8db0-9679d2893394</guid>
             <pubDate>Tue, 31 May 2016 22:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow]]></title>
-            <description><![CDATA[<p>Instagram</p>]]></description>
-            <link>http://dogwatisaw.com/follow/index.html</link>
-            <guid isPermaLink="false">8c466a5f-102a-4087-9815-188d408a51ab</guid>
-            <pubDate>Tue, 31 May 2016 22:24:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
