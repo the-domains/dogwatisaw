@@ -4,8 +4,22 @@
         <description><![CDATA[Dog Wat I Saw]]></description>
         <link>http://dogwatisaw.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 22:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 22:24:58 GMT</lastBuildDate>
         <atom:link href="http://dogwatisaw.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Follow]]></title>
+            <description><![CDATA[<p>Instagram</p>]]></description>
+            <link>http://dogwatisaw.com/follow/index.html</link>
+            <guid isPermaLink="false">8c466a5f-102a-4087-9815-188d408a51ab</guid>
+            <pubDate>Tue, 31 May 2016 22:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/563f5332-a79e-4f86-b8d2-5c22d385c786.jpg">]]></description>
+            <link>http://dogwatisaw.com/spaniel-trying-to-murder-some-ducks-341pm-regents-canal/index.html</link>
+            <guid isPermaLink="false">bad1158e-e9bb-4e7e-8393-a92623ae4ac1</guid>
+            <pubDate>Tue, 31 May 2016 22:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4e3dad-d22b-4906-b561-468a3e8a26f5.jpg">]]></description>
